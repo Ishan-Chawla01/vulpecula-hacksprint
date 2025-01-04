@@ -19,7 +19,34 @@ LabourLink is a website designed to provide dignified employment opportunities t
    - Supports labourers in improving their skills and increasing their employability.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript,SCSS
+- **Frontend:** HTML, CSS, JavaScript,SCSSro
 - **Backend:**  Python
 - **Analytics:** Python Matplotlib for data visualization
+- ** Font awesome** For icons
+## Installation
+
+1. Clone the repository:
+
+```bash 
+git clone https://github.com/Ishan-Chawla01/labourlink.git
+Navigate to the project directory:
+Generate the bar chart image by running the generate_chart.py script.
+Open the index.html file in your preferred web browser to view the website.
+Project Structure
+index.html: The main page of the website.
+
+skills_analysis.html: Page displaying the most relevant skills of the week, month, and year.
+
+courses.html: Page listing available courses for upskilling.
+
+workshops.html: Page listing available part-time workshops.
+
+assets/css/main.css: Stylesheet for the website.
+
+assets/js: JavaScript files for the website.
+
+generate_chart.py: Python script for generating the bar chart image.
+
+images/: Directory containing images used on the website.
+
 
