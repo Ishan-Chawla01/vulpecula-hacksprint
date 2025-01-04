@@ -19,8 +19,7 @@ LabourLink is a website designed to provide dignified employment opportunities t
    - Supports labourers in improving their skills and increasing their employability.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
+- **Frontend:** HTML, CSS, JavaScript,SCSS
+- **Backend:**  Python
 - **Analytics:** Python Matplotlib for data visualization
 
