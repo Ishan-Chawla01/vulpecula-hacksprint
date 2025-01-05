@@ -29,10 +29,13 @@ LabourLink is a website designed to provide dignified employment opportunities t
 
 ```bash 
 git clone https://github.com/Ishan-Chawla01/labourlink.git
-Navigate to the project directory:
-Generate the bar chart image by running the generate_chart.py script.
-Open the index.html file in your preferred web browser to view the website.
-Project Structure
+-Navigate to the project directory:
+-Generate the bar chart image by running the generate_chart.py script.
+-Open the index.html file in your preferred web browser to view the website.
+
+
+
+##Project Structure
 index.html: The main page of the website.
 
 skills_analysis.html: Page displaying the most relevant skills of the week, month, and year.
