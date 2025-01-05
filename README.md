@@ -35,7 +35,7 @@ git clone https://github.com/Ishan-Chawla01/labourlink.git
 ```
 
 
-##Project Structure
+## Project Structure
 index.html: The main page of the website.
 
 skills_analysis.html: Page displaying the most relevant skills of the week, month, and year.
