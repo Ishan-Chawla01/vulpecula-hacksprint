@@ -48,12 +48,6 @@ assets/js: JavaScript files for the website.
 generate_chart.py: Python script for generating the bar chart image.
 
 images/: Directory containing images used on the website.
-THE TASKS LEFT:
-ACCOUNT SIGN UP PAGE AND LOGIN PAGE
-STORING FILE
-Relevant job dataset(based on salary)
-Relevant job dataset (based on number of working days)
-Modifs to skill update window etc
-Real time python update
+
 
 
