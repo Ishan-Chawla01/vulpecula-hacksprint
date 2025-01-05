@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apply for Job</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Apply for Job</h2>
+        <form action="submit_application.html" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="mobile">Mobile Number:</label>
+            <input type="tel" id="mobile" name="mobile" required>
+            <input type="hidden" id="job-post" name="job-post">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        // Function to set the job post detail
+        function setJobPost(jobPost) {
+            document.getElementById('job-post').value = jobPost;
+        }
+    </script>
+</body>
+</html>
